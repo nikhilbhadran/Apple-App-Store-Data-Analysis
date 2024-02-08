@@ -13,3 +13,5 @@ Final Summary according to data exploration and analysis:
 4. Apps with a longer description have better ratings
 5. New apps should aim for an average rating of above 3.5
 6. Games and Entertainment have high competition
+
+DATASET: https://drive.google.com/drive/folders/14O9xB8N1gXN_67ouphImQkvpzyitmTfR
