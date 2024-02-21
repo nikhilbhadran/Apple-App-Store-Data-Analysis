@@ -16,6 +16,8 @@ Final Summary according to data exploration and analysis:
 
 DATASET: https://drive.google.com/drive/folders/14O9xB8N1gXN_67ouphImQkvpzyitmTfR
 
+# Data Analysis using SQL
+
 `CREATE TABLE appleStore_description_combined AS`
 
 `SELECT * FROM applestore_description1`
@@ -32,7 +34,7 @@ DATASET: https://drive.google.com/drive/folders/14O9xB8N1gXN_67ouphImQkvpzyitmTf
 
 `SELECT * FROM appleStore_description4`
 
--- **EXPLORATORY DATA ANALYSIS**
+**EXPLORATORY DATA ANALYSIS**
 
 -- Check the number of unique apps in both tablesAppleStore
 
